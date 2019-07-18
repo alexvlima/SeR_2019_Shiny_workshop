@@ -1,5 +1,12 @@
 # Shiny mini workshop
 
+## Alexandre V Lima
+
+I took this workshop at SeR 2019 at Federal Fluminense University. The final app is hosted in my shinyapps account.
+https://alexvlima.shinyapps.io/shiny-minicourse/.
+
+## Dean Attali
+
 In this workshop, we'll be using data from the FIFA 2019 video game to explore the stats of soccer players with the help of a Shiny app. The final app we'll be building is [here](https://daattali.com/shiny/fifa2019/) ([mirror](https://daattali.shinyapps.io/fifa2019/))
 
 Slides are available [here](https://github.com/daattali/shiny-mini-workshop/raw/master/Shiny%20Mini%20Workshop%20-%20SER%202019.pdf)
